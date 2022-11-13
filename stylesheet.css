@@ -1,0 +1,23 @@
+.list{
+    color: #ff0000;
+    font-size: 20px;
+}
+#likes{
+    font-style: italic;
+}
+.List2{
+    color: aqua;
+    font-size: 20px;
+}
+#Dislike{
+    font-style: bold;
+}
+.ol1{
+    font-size: 15px;
+}
+#ollist{
+    color: blue;
+}
+#ullist{
+    color: rgb(22, 215, 22);
+}
